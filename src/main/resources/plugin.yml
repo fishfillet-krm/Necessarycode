@@ -1,0 +1,4 @@
+name: Necessarycode
+version: '1.0'
+main: TeamFS.necessarycode.NecessarycodeCore
+api-version: '1.21'
